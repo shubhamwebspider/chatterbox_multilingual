@@ -45,6 +45,7 @@ SUPPORTED_LANGUAGES = {
   "sw": "Swahili",
   "tr": "Turkish",
   "zh": "Chinese",
+  "bn": "Bengali",
 }
 
 

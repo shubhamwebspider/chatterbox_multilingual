@@ -1,3 +1,7 @@
+# Ignore pip cache
+.cache/
+.venv
+
 .vscode
 
 # Pylance
@@ -45,4 +49,7 @@ checkpoints/
 .gradio
 
 # Ignore generated sample .wav files
-**/*.wav
+# **/*.wav
+
+# Ignore generated voice
+# voice_profiles
